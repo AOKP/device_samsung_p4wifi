@@ -26,5 +26,7 @@
 
     <!-- This device does not allow sms service. -->
     <bool name="config_sms_capable">false</bool>
+    
+    <bool name="config_enableCrtAnimations">false</bool>
 
 </resources>
